@@ -24,8 +24,7 @@ unavailable at this time
 available at https://kodibeargit.github.io/Codecademy-Excursion/
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Follow items as instructed in project
 
 ## Status
 Project is: _in progress just started
