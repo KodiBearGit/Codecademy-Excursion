@@ -3,11 +3,20 @@ body {
   text-align: center;
 }
 
-h1 {
+h1,
+h2,
+p{
   font-family: Verdana;
+}
+
+h1,
+h2{
+  color: white;
+}
+
+h1 {
   font-weight: Normal;
   font-size: 50px;
-  color: white;
   text-align: center;
 }
 
@@ -16,3 +25,16 @@ a {
   font-size: 16px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright{
+  text-align: right;
+}
