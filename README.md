@@ -27,7 +27,7 @@ To-do list:
 * Follow items as instructed in project
 
 ## Status
-Project is: _completedjust started
+Project is: _completed
 
 ## Inspiration
 Project assigned during Codecademy Full Stack Engineering path, specifically under the "Bringing your site online" section.  
